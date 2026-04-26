@@ -58,13 +58,14 @@ Affiliation: Mason Ewing Corporation (USA)
 
 ## DOI Reference  
 
-(Insert Zenodo DOI here after publication)
+This work is officially registered and publicly archived with a DOI:  
+👉 https://doi.org/10.5281/zenodo.19784485
 
 ---
 
 ## Contact  
 
-Mason Ewing Corporation  
-United States  
+Mason Ewing Corporation, United States  
+contact@masonewingcorp.com
 
 ---
