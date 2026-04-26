@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="madisonary-logo.png" width="250"/>
+  <img src="madisonary-logo.png" width="500"/>
 </p>
 
 # The Madisonary  
