@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="madisonary-logo.png" width="250"/>
+</p>
+
 # The Madisonary  
 ### Official Dictionary of the Baby Madison Universe  
 
