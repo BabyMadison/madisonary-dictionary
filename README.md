@@ -59,7 +59,7 @@ Affiliation: Mason Ewing Corporation (USA)
 ## DOI Reference  
 
 This work is officially registered and publicly archived with a DOI:  
-👉 https://doi.org/10.5281/zenodo.19784485
+https://doi.org/10.5281/zenodo.19784485
 
 ---
 
